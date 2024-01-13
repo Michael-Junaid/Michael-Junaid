@@ -25,7 +25,6 @@
 
 -[GOOGLE CERTIFICATION NETWORK SECURITY.pdf](https://github.com/Michael-Junaid/Michael-Junaid/files/13928078/GOOGLE.CERTIFICATION.NETWORK.SECURITY.pdf)
 
--[Tools of the trade: Linux and structured query language]()
 
 <h2> 🤳🏿connect with me:</h2>
 [twitter]: https://twitter.com/iamju9d
