@@ -28,4 +28,5 @@
 
 <h2> 🤳🏿connect with me:</h2>
 [twitter]: https://twitter.com/iamju9d
-[Gmail]: oluwasegun.junaid@gmail.com
+[Gmail]:  oluwasegun.junaid@gmail.com
+
