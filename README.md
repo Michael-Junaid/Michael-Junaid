@@ -28,4 +28,4 @@
 
 <h2> 🤳🏿connect with me:</h2>
 [twitter]: https://twitter.com/iamju9d
-[instagram]: https://www.instagram.com/iam_ju9d/
+[Gmail]: oluwasegun.junaid@gmail.com
